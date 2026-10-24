@@ -1,0 +1,24 @@
+ScreenPrior — method attribution
+===============================
+
+The package code and component tests are distributed under the MIT licence in LICENSE.
+
+DiscoBAX comparator
+------------------
+screenprior.comparators implements routines from the equations and algorithms in Lyle, Mehrjou,
+Notin, Jesson, Bauer, Gal and Schwab, "DiscoBAX: Discovery of optimal intervention sets in genomic
+experiment design", ICML 2023. screenprior.discobax connects them to the package's shared
+bagged-ridge harness. It does not use DiscoBAX's neural surrogate or upstream source code.
+
+The implementation records its mathematical choices in the module documentation. Configuration
+values not stated in the paper are labelled DISCOBAX_CONFIG and attributed to the released run
+configuration. Tests use hand-computed arithmetic from the equations.
+
+The upstream repository is https://github.com/amehrjou/DiscoBAX. Its licence discrepancy, GPL-3.0
+in the root licence and Apache-2.0 in source headers, is recorded in the component documentation.
+Upstream source code is not included in this package.
+
+Data
+----
+Data are not redistributed. Provider releases, URLs, licences and citations are listed in
+data/manifests/sources.yaml. The software licence does not replace the providers' data terms.

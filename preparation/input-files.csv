@@ -1,0 +1,47 @@
+pub_id,input_key,source_filename_or_alias,role,requirement
+pmid_40615675,41588_2025_2222_MOESM4_ESM.xlsx#member=xl_sharedStrings.xml.gz,41588_2025_2222_MOESM4_ESM.xlsx#member=xl_sharedStrings.xml.gz,OOXML member alternative,original workbook OR all3 member alternatives
+pmid_40615675,41588_2025_2222_MOESM4_ESM.xlsx#member=xl_worksheets_sheet10.xml,41588_2025_2222_MOESM4_ESM.xlsx#member=xl_worksheets_sheet10.xml,OOXML member alternative,original workbook OR all3 member alternatives
+pmid_40615675,41588_2025_2222_MOESM4_ESM.xlsx#member=xl_worksheets_sheet8.xml,41588_2025_2222_MOESM4_ESM.xlsx#member=xl_worksheets_sheet8.xml,OOXML member alternative,original workbook OR all3 member alternatives
+pmid_40615675,41588_2025_2222_MOESM4_ESM.xlsx,41588_2025_2222_MOESM4_ESM.xlsx,original workbook,original workbook OR all3 member alternatives
+pmid_39518122,cancers-3260552-supplementary.pdf,cancers-3260552-supplementary.pdf,PDF table,all listed files
+pmid_41882347,pmid_41882347_MOESM3.xlsx,pmid_41882347_MOESM3.xlsx,workbook,all listed files
+pmid_41882347,pmid_41882347_MOESM6.xlsx,pmid_41882347_MOESM6.xlsx,workbook,all listed files
+pmid_41882347,pmid_41882347_MOESM7.xlsx,pmid_41882347_MOESM7.xlsx,workbook,all listed files
+pmid_42123509,Table_S1_genome-wide_CRISPR_screen_data.xlsx,Table_S1_genome-wide_CRISPR_screen_data.xlsx,workbook,all listed files
+pmid_40493189,pnas.2424985122.sd03.csv,pnas.2424985122.sd03.csv,text table,all listed files
+pmid_41579376,NIHMS2151702-supplement-2.xlsx,NIHMS2151702-supplement-2.xlsx,workbook,all listed files
+pmid_39117798,41375_2024_2325_MOESM4_ESM.xlsx,41375_2024_2325_MOESM4_ESM.xlsx,workbook,all listed files
+pmid_42793135,PMC13604100_supplementaryFiles.zip,PMC13604100_supplementaryFiles.zip,archive,all listed files
+pmid_38229201,GSE232614_WSU.gene_summary.txt.gz,GSE232614_WSU.gene_summary.txt.gz,text table,all listed files
+pmid_38229201,GSE232614_WSU.sgrna_summary.txt.gz,GSE232614_WSU.sgrna_summary.txt.gz,text table,all listed files
+pmid_39894896,supplementaryFiles.zip,supplementaryFiles.zip,archive,all listed files
+pmid_41397982,41467_2025_67236_MOESM4_ESM.xlsx,41467_2025_67236_MOESM4_ESM.xlsx,workbook,all listed files
+pmid_42685209,PMC13537241_suppl.zip,PMC13537241_suppl.zip,archive,all listed files
+pmid_42212547,MOL2-9999-0-s004.xlsx,MOL2-9999-0-s004.xlsx,workbook,all listed files
+pmid_38315730,S1_Table_more_aggregation.xlsx,S1_Table_more_aggregation.xlsx,workbook,all listed files
+pmid_41886504,pmid_41886504_supp.zip,pmid_41886504_supp.zip,archive,all listed files
+pmid_41860961,PMC13012052_supp.zip,PMC13012052_supp.zip,archive,all listed files
+pmid_39251587,41467_2024_52176_MOESM10_ESM.xlsx,41467_2024_52176_MOESM10_ESM.xlsx,workbook,all listed files
+pmid_41383979,pmid_41383979_supp.zip,pmid_41383979_supp.zip,archive,all listed files
+pmid_41756760,PMC12932945_supp.zip,PMC12932945_supp.zip,archive,all listed files
+pmid_40021625,41467_2025_57185_MOESM4_ESM.xlsx,41467_2025_57185_MOESM4_ESM.xlsx,workbook,all listed files
+pmid_41974002,can-25-3654_table_s1-s12_suppst1-12.xlsx,can-25-3654_table_s1-s12_suppst1-12.xlsx,workbook,all listed files
+pmid_39753722,43018_2024_882_MOESM3_ESM.xlsx,43018_2024_882_MOESM3_ESM.xlsx,workbook,all listed files
+pmid_38480701,41467_2024_46495_MOESM5_ESM.xlsx,41467_2024_46495_MOESM5_ESM.xlsx,workbook,all listed files
+pmid_38653965,41467_2024_47771_MOESM5_ESM.xlsx,41467_2024_47771_MOESM5_ESM.xlsx,workbook,all listed files
+pmid_41887225,jacquere_A375_mageck_RRA_results.gene_summary.txt,jacquere_A375_mageck_RRA_results.gene_summary.txt,text table,all listed files
+pmid_40327396,PMC12226049_SupplementaryFiles.zip,PMC12226049_SupplementaryFiles.zip,archive,all listed files
+pmid_41564866,mmc3.xlsx,1-s2.0-S266637912500638X-mmc3.xlsx,workbook,all listed files
+pmid_39198401,PMC11358519_SupplementaryFiles.zip,PMC11358519_SupplementaryFiles.zip,archive,all listed files
+pmid_42469227,41392_2026_2847_MOESM2_ESM.xlsx,41392_2026_2847_MOESM2_ESM.xlsx,workbook,all listed files
+pmid_37971291,PMC10783524_SupplementaryFiles.zip,PMC10783524_SupplementaryFiles.zip,archive,all listed files
+pmid_42694111,44400_2026_125_MOESM3_ESM.xlsx,44400_2026_125_MOESM3_ESM.xlsx,workbook,all listed files
+pmid_39856062,MOESM4.xlsx,MOESM4.xlsx,workbook,all listed files
+pmid_39272807,Supplemental_Table_S1_TKOv3.xlsx,Supplemental_Table_S1_TKOv3.xlsx,workbook,all listed files
+pmid_40993380,supplementaryFiles.zip,supplementaryFiles.zip,archive,all listed files
+pmid_39715471,pmid_39715471_epmc_bundle.zip,pmid_39715471_epmc_bundle.zip,archive,all listed files
+pmid_38316463,LSA-2023-02353_TableS1.xlsx,LSA-2023-02353_TableS1.xlsx,workbook,all listed files
+pmid_38939106,pmid_38939106_epmc_bundle.zip,pmid_38939106_epmc_bundle.zip,archive,all listed files
+pmid_41820368,41467_2026_70517_MOESM3_ESM.xlsx,41467_2026_70517_MOESM3_ESM.xlsx,workbook,all listed files
+pmid_40601736,sciadv.adu9104_tables_s1_to_s3.zip,sciadv.adu9104_tables_s1_to_s3.zip,archive,all listed files
+pmid_41285767,41467_2025_65277_MOESM3_ESM.xlsx,41467_2025_65277_MOESM3_ESM.xlsx,workbook,all listed files

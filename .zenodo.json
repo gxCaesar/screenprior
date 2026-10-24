@@ -1,0 +1,16 @@
+{
+  "title": "Completed CRISPR screens guide adaptive gene acquisition in new screens",
+  "upload_type": "software",
+  "description": "ScreenPrior code for batch active learning in genome-scale CRISPR screens, including source-table preparation, an external-target runner and saved-result reporting. The companion study-data archive is separate. Original third-party gene tables, hit/tested masks, feature arrays and model checkpoints are not redistributed with this code.",
+  "creators": [
+    {
+      "name": "Chen, Guanxing",
+      "orcid": "0000-0002-4435-0884",
+      "affiliation": "City University of Hong Kong (Dongguan), Dongguan, China"
+    }
+  ],
+  "version": "0.1.0",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["CRISPR screens", "active learning", "experimental design", "ScreenPrior"]
+}

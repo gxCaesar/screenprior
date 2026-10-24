@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "screenprior"
+version = "0.1.0"
+description = "Batch active learning for CRISPR screens, using a corpus of completed screens as a task prior"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.21",
+    "pandas>=1.3",
+    "scipy>=1.7",
+    "scikit-learn>=1.0",
+    "typer>=0.9",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.4"]
+
+[project.scripts]
+screenprior = "screenprior.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/screenprior"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint.per-file-ignores]
+# typer's documented idiom IS a call in the argument default; B008 is a false positive here.
+"src/screenprior/cli.py" = ["B008"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,28 @@
+# Optional pinned CPU dependencies. Install the package separately.
+annotated-doc==0.0.5
+click==8.1.8; python_version < "3.10"
+click==8.2.1; python_version >= "3.10"
+exceptiongroup==1.3.1
+iniconfig==2.1.0
+joblib==1.5.3
+markdown-it-py==3.0.0
+mdurl==0.1.2
+numpy==2.0.2
+packaging==26.3
+pandas==2.3.3
+pluggy==1.6.0
+Pygments==2.20.0
+pytest==8.4.2
+python-dateutil==2.9.0.post0
+pytz==2026.3.post1
+rich==15.0.0
+ruff==0.16.2
+scikit-learn==1.6.1
+scipy==1.13.1
+shellingham==1.5.4
+six==1.17.0
+threadpoolctl==3.6.0
+tomli==2.4.1
+typer==0.23.2
+typing_extensions==4.16.0
+tzdata==2026.3

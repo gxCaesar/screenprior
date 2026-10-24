@@ -1,0 +1,2 @@
+# Run from this directory. These are the package's tested CPU dependencies.
+-r ../requirements-lock.txt

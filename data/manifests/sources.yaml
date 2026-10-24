@@ -1,0 +1,99 @@
+sources:
+- name: biogrid_orcs_human_screens
+  release: 2.0.18
+  published: '2025-10-07'
+  url: https://downloads.thebiogrid.org/Download/BioGRID-ORCS/Release-Archive/BIOGRID-ORCS-2.0.18/BIOGRID-ORCS-ALL-homo_sapiens-2.0.18.screens.tar.gz
+  filename: BIOGRID-ORCS-ALL-homo_sapiens-2.0.18.screens.tar.gz
+  citation: 'Stark C, Breitkreutz BJ, Reguly T, Boucher L, Breitkreutz A, Tyers M.
+    BioGRID: A General Repository for Interaction Datasets. Nucleic Acids Res. 2006
+    Jan 1; 34:D535-9.'
+  role: Completed human CRISPR screens and their hit calls.
+  licence: MIT
+  notes: Use the human archive's SCREEN_INDEX with its screen files.
+- name: depmap_crispr_gene_effect
+  release: 21Q4
+  version: v1
+  published: '2021-11-03'
+  doi: 10.6084/m9.figshare.16924132.v1
+  url: https://figshare.com/ndownloader/files/31315996
+  filename: CRISPR_gene_effect.csv
+  citation: DepMap, Broad (2021). DepMap 21Q4 Public. figshare. Dataset. https://doi.org/10.6084/m9.figshare.16924132.v1
+  role: Static co-essentiality representation and mean gene effects.
+  licence: CC BY 4.0
+  notes: This release has genes as columns. Preserve its provider filename.
+- name: genedisco
+  release: 1.0.5
+  published: '2022-05-13'
+  url: https://files.pythonhosted.org/packages/b7/13/e8cb100a314c3c3c0d9c95875f17800b70462b3bdc9834bbdef3dbf1c186/genedisco-1.0.5.tar.gz
+  filename: genedisco-1.0.5.tar.gz
+  citation: 'Mehrjou A, Soleymani A, Jesson A, Notin P, Gal Y, Bauer S, Schwab P.
+    GeneDisco: A Benchmark for Experimental Design in Drug Discovery. ICLR 2022.'
+  role: Reference CRISPR experimental-design benchmark package.
+  licence: Apache-2.0
+  notes: Benchmark-specific loaders are outside the core source package.
+- name: string_human_protein_links
+  release: '12.0'
+  published: '2023-07-26'
+  url: https://stringdb-downloads.org/download/protein.links.v12.0/9606.protein.links.v12.0.txt.gz
+  filename: 9606.protein.links.v12.0.txt.gz
+  citation: Szklarczyk D, et al. The STRING database in 2023. Nucleic Acids Res. 2023;51(D1):D638-D646.
+  role: Human protein association scores.
+  licence: CC BY 4.0
+  notes: Scores are association confidence values on a 0–1000 scale.
+- name: string_human_protein_aliases
+  release: '12.0'
+  published: '2023-07-26'
+  url: https://stringdb-downloads.org/download/protein.aliases.v12.0/9606.protein.aliases.v12.0.txt.gz
+  filename: 9606.protein.aliases.v12.0.txt.gz
+  citation: Szklarczyk D, et al. The STRING database in 2023. Nucleic Acids Res. 2023;51(D1):D638-D646.
+  role: Mapping STRING protein identifiers to gene symbols.
+  licence: CC BY 4.0
+  notes: The symbol sources are Ensembl_HGNC_symbol and BioMart_HUGO.
+- name: ncbi_gene_info_human
+  release: daily build, downloaded 2026-08-14
+  published: null
+  url: https://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz
+  filename: Homo_sapiens.gene_info.gz
+  citation: 'Brown GR, et al. Gene: a gene-centered information resource at NCBI.
+    Nucleic Acids Res. 2015;43(D1):D36-D42.'
+  role: Mapping human NCBI Gene identifiers to symbols.
+  licence: NCBI data terms
+  notes: The provider URL is updated regularly. Use the required dated release.
+- name: reactome_gene_to_pathway
+  release: '97'
+  published: '2026-06-30'
+  url: https://reactome.org/download/current/NCBI2Reactome_All_Levels.txt
+  filename: NCBI2Reactome_All_Levels.txt
+  citation: Milacic M, et al. The Reactome Pathway Knowledgebase 2024. Nucleic Acids
+    Res. 2024;52(D1):D672-D678.
+  role: Mapping NCBI Gene identifiers to Reactome pathways.
+  licence: CC0
+  notes: The URL follows the current release. Obtain release 97 if required.
+genedisco_siblings:
+- pmid: '35113687'
+  author: Schmidt et al.
+  orcs_screens:
+  - 2421
+  - 2422
+  - 2423
+  - 2424
+  - 2425
+  - 2426
+  - 2427
+  assays:
+  - schmidt_2021_ifng
+  - schmidt_2021_il2
+- pmid: '31921143'
+  author: Zhuang et al.
+  orcs_screens:
+  - 1081
+  - 1082
+  - 1083
+  assays:
+  - zhuang_2019_nk
+- pmid: '33574281'
+  author: Zhu et al.
+  orcs_screens:
+  - 1622
+  assays:
+  - zhu_2021_sarscov2
