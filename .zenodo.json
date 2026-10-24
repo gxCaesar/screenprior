@@ -12,5 +12,17 @@
   "version": "0.1.0",
   "license": "MIT",
   "access_right": "open",
-  "keywords": ["CRISPR screens", "active learning", "experimental design", "ScreenPrior"]
+  "keywords": [
+    "CRISPR screens",
+    "active learning",
+    "experimental design",
+    "ScreenPrior"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/gxCaesar/screenprior",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
 }

@@ -4,9 +4,7 @@ ScreenPrior source version 0.1.0 accompanies *Completed CRISPR screens guide ada
 acquisition in new screens* by Guanxing Chen, City University of Hong Kong (Dongguan), Dongguan,
 China. The author's ORCID is [0000-0002-4435-0884](https://orcid.org/0000-0002-4435-0884).
 
-Machine-readable software metadata are in [CITATION.cff](CITATION.cff). Repository, release-date
-and archive identifiers will be added after the corresponding records exist. No published
-repository URL or DOI is asserted by this local source package.
+Machine-readable software metadata are in [CITATION.cff](CITATION.cff). The maintained repository is [https://github.com/gxCaesar/screenprior](https://github.com/gxCaesar/screenprior). The code and generated-data archive identifiers will be added after their records are published.
 
 Cite the original data providers separately using the references in
 [data/manifests/sources.yaml](data/manifests/sources.yaml) and the companion study source index.

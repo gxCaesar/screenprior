@@ -303,6 +303,8 @@ checkpoint inference without the original libraries and model resources. Provide
 source-member gaps and the documented PDF-extraction limitation remain relevant to source
 reconstruction. See [data/README.md](data/README.md) and the component usage documents.
 
+The maintained source repository is [gxCaesar/screenprior](https://github.com/gxCaesar/screenprior). The companion generated-data archive and code-archive identifiers will be added after those records are published.
+
 ## Licence and citation
 
 The code is distributed under the MIT licence in [LICENSE](LICENSE). Third-party method
